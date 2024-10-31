@@ -1,0 +1,12 @@
+span.oosf-not-valid-tip {
+	left: auto;
+	right: 20%;
+	direction: rtl;
+}
+span.oosf-not-valid-tip-no-ajax {
+	direction: rtl;
+}
+span.oosf-list-item {
+	margin-left: 0;
+	margin-right: 0.5em;
+}
